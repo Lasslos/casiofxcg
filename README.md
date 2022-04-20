@@ -1,4 +1,4 @@
-# casiofxcg
+# Casio fx CG 10/20/50 add-ins
 ### About
 This is a collection of Add-Ins for the CASIO fx-CG 10/20/50 Calculator. 
 
